@@ -1,5 +1,4515 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 3,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Ejército Revolucionario del Pueblo informa comunicados número cinco y siete sobre la detención y juicio revolucionario al cónsul inglés y gerente del frigorífico Swift de Rosario"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "9967f0f0-2952-4c3a-95b7-9acaf1d863c2"
+    },
+    {
+      "start_time": 30,
+      "end_time": 31,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Al pueblo:"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "3dcc7806-59b2-4044-8d26-a9601382e344"
+    },
+    {
+      "start_time": 31,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El señor Stanley Sylvester, puesto a disposición de la justicia popular, está siendo sometido a juicio revolucionario por el ERP."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "133bf485-5d1d-46a9-8724-a78ff7a9a124"
+    },
+    {
+      "start_time": 40,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El señor Sylvester representa simultáneamente a los intereses de los enemigos del pueblo argentino, el imperialismo británico y el poderoso monopolio yankee Deltec."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "1b39b09c-5240-4219-b71b-0f0bd313ac99"
+    },
+    {
+      "start_time": 53,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Desde principios de siglo, el frigorífico Swift amasó sumas fabulosas de dinero que,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "b7c1eeca-5527-4daf-9d45-2610f49339e9"
+    },
+    {
+      "start_time": 59,
+      "end_time": 63,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "producido por los trabajadores argentinos, engrosaron los bolsillos del imperialismo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "101a2781-51f3-43c3-af50-87182b75e86b"
+    },
+    {
+      "start_time": 65,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Empresas como la Swift han influido en los gobiernos argentinos títeres."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "d75720d6-d425-4218-851a-76ddf4e778f3"
+    },
+    {
+      "start_time": 70,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Funcionarios como Krieger Vasena son a su vez personeros de la Deltec u otros monopolios."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "15715806-1814-4537-95fa-790a1d6d6480"
+    },
+    {
+      "start_time": 76,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y curiosamente, estos señores son los que nos acusan de ser portavoces de ideologías foráneas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "21de88cb-a19f-4a2c-b03b-f9991e71658d"
+    },
+    {
+      "start_time": 86,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comandante Feset, ¿cuáles son las últimas novedades relacionadas con el secuestro del señor cónsul de Gran Betaña?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "ca55a488-9fe9-4823-a5d7-2c5687ab0ce8"
+    },
+    {
+      "start_time": 93,
+      "end_time": 106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, señor, la novedad es importante en cuanto al lugar, el probable lugar donde pudiera encontrarse el señor cónsul, a este momento no tenemos nada concreto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "71694a15-01e0-4897-bad2-bf97b93c4c73"
+    },
+    {
+      "start_time": 106,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Hay alguna persona detenida con relación a este hecho, señor Feset?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "06541bb3-3c62-48e9-b2ec-6927643713ed"
+    },
+    {
+      "start_time": 110,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, sí, se han realizado en el punto de la noche"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "dfdf5a9c-178d-48a1-9f0f-d7fdfd86bce9"
+    },
+    {
+      "start_time": 113,
+      "end_time": 129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "aproximadamente 50 allanamientos en toda la zona urbana de la ciudad y hay una cantidad de personas, aproximadamente una veintena, aproximadamente veinte, que han sido detenidas y están siendo interrogadas, hasta ahora sin ningún resultado positivo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "affe92c1-26be-4871-a86c-e7ba05289b96"
+    },
+    {
+      "start_time": 129,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué disposiciones se han tomado para este rato?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "8ae94bb0-af45-447c-92fa-beeccab5763e"
+    },
+    {
+      "start_time": 133,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Medida de seguridad policial se refiere el señor periodista luego del hecho?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "f4ab72d3-6f69-4d3f-9df2-eb210a2eb4d3"
+    },
+    {
+      "start_time": 138,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, sí, se ha desplegado toda la fuerza policial que dispone el departamento, consistente en las operaciones que son típicas, en este caso, del bloqueo de carretera, control del entrador de la ciudad, allanamiento, como ya mencioné, patrulladas, revisación de automotores, identificación de personas con todos los efectivos que dispone la policía."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "6c76a3b6-50a1-4134-9cd9-6b58ae6673cb"
+    },
+    {
+      "start_time": 159,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Swift, en colaboración con la dictadura militar, organizó la maniobra con las carnes, transformando a estas en un artículo de lujo para el pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "b139c2b0-e495-4630-aaf2-cf6ee5f72cca"
+    },
+    {
+      "start_time": 169,
+      "end_time": 174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para los obreros del frigorífico, significó la pérdida de trabajo durante varios meses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "2ec0fc69-11ce-4735-8a1e-08154c21ead0"
+    },
+    {
+      "start_time": 175,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un obrero de Swift gana alrededor de 20.000 pesos por mes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "ae18ad50-3520-4130-8953-315d921325fc"
+    },
+    {
+      "start_time": 180,
+      "end_time": 185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Viviría el señor Sylvester y su familia en la mansión de Fischerton con ese salario,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "f0c2ae15-57a4-4e72-82ea-9970e8335a0d"
+    },
+    {
+      "start_time": 186,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En la actualidad, Swift y Deltec continúan en estrechas relaciones con el presidente de turno, General Lanusse, cuya familia es una de las principales propietarias de hacienda y proveedoras del frigorífico."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "d0a2da95-090a-4553-89ff-0c1d897a58e2"
+    },
+    {
+      "start_time": 199,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero donde más claramente se ve el carácter de pulpo chupasangre de esta empresa es en las condiciones de vida y de trabajo a que son sometidos los obreros de la carne, los peor pagados de la industria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "c5008ec4-d8b4-468e-a30f-1059eaeacf2f"
+    },
+    {
+      "start_time": 212,
+      "end_time": 215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En el frigorífico existe un régimen de trabajo inhumano,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "e06c8ab0-3ff8-4781-bd4a-41cc8f06369b"
+    },
+    {
+      "start_time": 216,
+      "end_time": 221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los topes de producción son inalcanzables y hacen peligrar la salud de los trabajadores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "d3b1cc1c-125e-4562-a6b2-0a189ab482bb"
+    },
+    {
+      "start_time": 221,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se ven a diario compañeros con heridas en las manos, enfermos que son enviados de vuelta al trabajo bajo amenazas de suspensiones o despidos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "97cf3756-f80b-44bb-8155-7c7d151d5cde"
+    },
+    {
+      "start_time": 233,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El hecho de que los dirigentes sindicales no convoquen a la lucha no se debe a la falta de conflictos, sino a su papel de"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "91c2e8ff-635e-44a4-b840-a59f864b3e2d"
+    },
+    {
+      "start_time": 246,
+      "end_time": 249,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Señor Valóquez, ¿alto funcionario del frigorífico Swift pondrá él?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "a683d550-2ce6-40ef-956e-930f52cc7618"
+    },
+    {
+      "start_time": 249,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Así es."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "95821e5c-a495-49cb-bafd-44f29fdd8cb6"
+    },
+    {
+      "start_time": 250,
+      "end_time": 252,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Él ha tenido algún problema con el personal?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "16ec14fe-bea7-40c3-b6fa-ac82fd82ea03"
+    },
+    {
+      "start_time": 252,
+      "end_time": 254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutamente, de ninguna clase."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "a4c7c631-4f06-4af2-acf7-7a381392f037"
+    },
+    {
+      "start_time": 256,
+      "end_time": 261,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y puedo decir que en asuntos lineales no hay absolutamente nada en este aspecto."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "14b275ce-e31f-436d-aa8f-809e9afa66f9"
+    },
+    {
+      "start_time": 262,
+      "end_time": 264,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Podemos decir que el personal siempre lo ha respetado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "f05c871b-59c2-4e5b-b0d1-33d6449afc33"
+    },
+    {
+      "start_time": 264,
+      "end_time": 270,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Siempre ha sido respetado y el personal está, puedo asegurar que está sumamente indignado con este hecho."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "127da561-c326-4f6a-b146-57a2ad3b1878"
+    },
+    {
+      "start_time": 271,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dirigentes como Cabrera y otros que prefieren defender los intereses imperialistas deben reflexionar seriamente sobre las consecuencias que tendrá para ellos su traición."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "23038c8a-240a-4aa3-aad5-3ad219fe494a"
+    },
+    {
+      "start_time": 283,
+      "end_time": 291,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es en función de todo esto que el Ejército Revolucionario del Pueblo reclama para la definitiva liberación del señor Silvestar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "bd8c54ee-99e2-427d-9a14-79201fbc2961"
+    },
+    {
+      "start_time": 292,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "reincorporación y pago de lo deudado a los trabajadores esantes, cese del trato policial por parte de los jefes internos, reducción del tope de producción, disminución del frío en las secciones que ya han afectado la salud de numerosos compañeros y obligado a abandonar el trabajo a las mujeres embarazadas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "juicio revolucionario"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro politico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stanley Sylvester"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Deltec"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Krieger Vasena"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "General Lanusse"
+        }
+      ],
+      "uuid": "79023a19-f210-4022-affc-be2ad893eeec"
+    },
+    {
+      "start_time": 314,
+      "end_time": 324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En carácter de indemnización a los trabajadores de la carne, la empresa Swift deberá distribuir 25 millones de pesos en alimentos, en barrios a determinar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "cebdebc2-25cf-4f4b-a4c1-4a155f9b21d9"
+    },
+    {
+      "start_time": 331,
+      "end_time": 351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "faltan instantes para las 15 horas hoy es viernes 28 de marzo de 1971 estamos en uno de los patios frente a la planta del frigorífico Swift el lugar donde dentro de instantes hará abandono de su trabajo el turno de la mañana es aquí uno de los bolsos con provisiones que va a ser entregado al personal un kilo de arroz una gota de aceite"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "02336d86-bb8a-4e74-b6a0-c5a42cfb0b81"
+    },
+    {
+      "start_time": 356,
+      "end_time": 374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "leche entera en polvo y esto es azúcar, aparte creo que le van a entregar casadas señores así, por lo menos, creo que sí, no estoy seguro también van a entregar casadas señores, no se han conseguido las cosas cuando le van a entregar?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "7fe5e512-c753-48f0-90f9-57dc198c1091"
+    },
+    {
+      "start_time": 375,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "bueno esperamos mañana a tener una parte de ellas azúcar, aceite, leche en polvo y arroz"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "baed9490-130a-4a7f-819c-c8de580d6d15"
+    },
+    {
+      "start_time": 384,
+      "end_time": 390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "3.600 personas aproximadamente van a recibir en este preciso momento cada bolso, uno por cabeza."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "f0eb896b-ccb2-402e-97ad-15afec25f78b"
+    },
+    {
+      "start_time": 391,
+      "end_time": 398,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Además, mañana posiblemente puedan entregarse dos plazadas a cada operario, a razón de 3.700 personas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "bea057ce-acce-4ab9-9658-a25c0f63adc3"
+    },
+    {
+      "start_time": 398,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El frigorífico Swift se nos comunica, compró 10.000 plazadas, pero todavía no han llegado, les cuesta reunirlas en la ciudad de Rosario para atraer desde Buenos Aires también."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "93affa39-fe80-40af-9da4-c7bd634d87e7"
+    },
+    {
+      "start_time": 409,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "van a ser aproximadamente 7.600, 7.500 para el personal del frigorífico Swift y las restantes van a ser repartidas en las villas de emergencia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "11c2b0f4-696b-40d5-8278-3d94892a6925"
+    },
+    {
+      "start_time": 420,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vemos que hay más de 3.000 personas aquí tratando de recibir su paquete."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "d57b6975-c092-4d6f-a8cb-6ef4694e13e7"
+    },
+    {
+      "start_time": 425,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por consiguiente, se hace un poco dificultosa la tarea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "0d51238c-ef2b-45be-b65f-d1d5ac6b36b3"
+    },
+    {
+      "start_time": 429,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es un amontonamiento muy grande de gente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "8602d68c-61b1-4ea9-8615-203ae08c3ee7"
+    },
+    {
+      "start_time": 432,
+      "end_time": 441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "cada obrero presenta una tarjeta, una pilla, con sus datos de identificación que son tomados en una planilla que tiene el personal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "f43b956f-f985-4623-a45c-7bacd3d7077a"
+    },
+    {
+      "start_time": 441,
+      "end_time": 449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entrevistamos aquí del patio, frente a mismo el lugar donde se está repartiendo la mercancía ordenada por el Ejército Revolucionario del Pueblo a un operario."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "7de0b8a7-2e4a-4a65-9a5f-a862a3b8c17a"
+    },
+    {
+      "start_time": 449,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cómo se llama, señor?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "696fc8b6-1392-4108-9325-004e8c8673a9"
+    },
+    {
+      "start_time": 450,
+      "end_time": 451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿La altura, por favor?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "5c00fafb-443a-4c6a-b4fb-1779be9823b2"
+    },
+    {
+      "start_time": 451,
+      "end_time": 452,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué le han dado aquí en este bolso?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "4c28fed2-c32f-4f8a-a709-c4a6062e6083"
+    },
+    {
+      "start_time": 452,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Y hay aceites?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "deadcfd1-3d52-4be6-88c4-1a6a323fc169"
+    },
+    {
+      "start_time": 453,
+      "end_time": 455,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Y muchas cosas como aceites?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "a3f59245-fd8f-4545-bb07-a0a464a49f9a"
+    },
+    {
+      "start_time": 455,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Son leches en polvo y de nuevo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "7e8d7092-6eb5-488f-ab28-830e3be814e2"
+    },
+    {
+      "start_time": 457,
+      "end_time": 458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué opinan de todo esto?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "2be82b9e-125d-48b4-9ecb-81c4e969eddd"
+    },
+    {
+      "start_time": 458,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muy bueno."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "445d7155-59e5-4a9a-b637-57b05ea57ac6"
+    },
+    {
+      "start_time": 459,
+      "end_time": 460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿La frasada o para cuándo se la prometió?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "6bfebfde-2b2e-4bb5-86ea-a374742ac5d9"
+    },
+    {
+      "start_time": 462,
+      "end_time": 469,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La realidad no está en los paquetes que nos ha dado, no hay frasadas, pero pensamos que va a cumplir con los..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "5552b9aa-0571-45a4-88fd-d5fa548101d9"
+    },
+    {
+      "start_time": 469,
+      "end_time": 474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No me decían que cuesta trabajo encontrar tantos miles de frasadas de golpe en la ciudad, dicen que no hay en los negros."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "c21bab7a-80dc-470c-a9b3-119ee899b6f5"
+    },
+    {
+      "start_time": 474,
+      "end_time": 476,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, no serán problemas débilos, no es esto, ¿no?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "a8a4e981-9c15-4a4d-a8bb-0e49354988d7"
+    },
+    {
+      "start_time": 476,
+      "end_time": 478,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Decían que debuéramos saber que van a llevar entrego de mañana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "b9461310-f47c-4a31-872b-e470df6181f0"
+    },
+    {
+      "start_time": 479,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, esperemos que cumplan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "edd4370f-d22d-4a9b-bba8-3d732dc4dd76"
+    },
+    {
+      "start_time": 482,
+      "end_time": 501,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "20 minutos y comenzó a repercutir en la zona este reparto de víveres que se está haciendo los frigoríficos Swift que lentamente van acudiendo a este lugar vecino de la zona pienso que en su mayoría serán obreros o ex obreros del frigorífico Swift señores ustedes son obreros del frigorífico ya le vieron el paquete?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "bfc511ad-0e07-4069-8bf6-23dc1d22a026"
+    },
+    {
+      "start_time": 501,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no hay mucha gente, ¿cuánta persona calcula que hay por aquí?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "1e99ed61-5961-47a0-9b00-a60843376556"
+    },
+    {
+      "start_time": 505,
+      "end_time": 508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "va de 2000 pesos ¿cuánto están trabajando el frigorífico ahora?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "9eef7894-9c66-4e16-8091-b0f96a5660aa"
+    },
+    {
+      "start_time": 510,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuatro mil, cuatro mil más o menos, gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "2a2258b3-84d4-4967-b6c0-9f957655a67c"
+    },
+    {
+      "start_time": 515,
+      "end_time": 524,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compañeros, ha sido necesario un acto de violencia revolucionaria para dejar al desnudo la violencia de los opresores, la de todos los días."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "74a6f2a1-27a6-4d07-8f07-7a5335465896"
+    },
+    {
+      "start_time": 525,
+      "end_time": 532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sabemos que con esta acción no vamos a solucionar los problemas que están padeciendo la clase obrera y el pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "18d55401-b35c-4b75-bfda-ad77718533bf"
+    },
+    {
+      "start_time": 533,
+      "end_time": 541,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sabemos que con las frasadas, los alimentos, los útiles escolares no va a terminar la miseria de los trabajadores argentinos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "3e155e1b-4801-4875-9a4a-7b035b62cceb"
+    },
+    {
+      "start_time": 542,
+      "end_time": 548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sabemos que pronto el frigorífico volverá a las andadas como cuadra toda empresa de explotadora."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "392b7c0e-fa66-4dc9-aa2c-60f8a66610a0"
+    },
+    {
+      "start_time": 549,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero esta acción de justicia popular ha servido para mostrar que las conquistas para el pueblo no se mendigan, se arrancan mediante la violencia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "6c87bad7-b40a-48b6-a8b0-11468b78fb24"
+    },
+    {
+      "start_time": 560,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que la dictadura militar es ineficaz para la represión de la invencible guerra revolucionaria que ya ha comenzado."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "9a05f630-b856-41f5-9f3c-382fc8c3e1f7"
+    },
+    {
+      "start_time": 570,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compañeros, queremos contribuir a la organización y movilización revolucionaria de los trabajadores."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "1bcbb6d4-bc68-468a-bb32-2573e6b6e50b"
+    },
+    {
+      "start_time": 577,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sin la participación activa de las masas, es imposible el triunfo, aún el más pequeño."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "1b108a7e-50c1-4f06-b568-23c8327ccadb"
+    },
+    {
+      "start_time": 585,
+      "end_time": 589,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La potencia del pueblo debe desplegarse con toda intensidad,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "a1dff9c0-769a-4205-9900-17bfafe176ba"
+    },
+    {
+      "start_time": 590,
+      "end_time": 595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y su columna vertebral será el ERP, junto a las demás organizaciones armadas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "31bc4e46-ba27-4a8e-b961-29c61d5f1636"
+    },
+    {
+      "start_time": 596,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por encima de los dirigentes traidores deben surgir nuevas formas de lucha y organización."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "ede4c368-3b61-4364-9049-f56d63bfc6cb"
+    },
+    {
+      "start_time": 603,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comandos del ER dentro de las fábricas, agrupaciones sindicales ligadas al ERP y todas las formas posibles de prepararse para la lucha popular."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "8e94b6cc-57d4-4409-9d38-bada24fe882e"
+    },
+    {
+      "start_time": 614,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compañeros,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "25b8e2ab-dbbc-4ea1-b5eb-3bbb3829f3bc"
+    },
+    {
+      "start_time": 616,
+      "end_time": 621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La situación de hambre, miseria y explotación han acentuado las condiciones para la lucha."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "163b44b9-85bd-4467-b06a-917a797a6929"
+    },
+    {
+      "start_time": 622,
+      "end_time": 625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El Virrey Lanusse nos ha declarado la guerra."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "8ca5a83f-bd2e-44be-931c-18ba3289b54a"
+    },
+    {
+      "start_time": 626,
+      "end_time": 628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Respondamos con la guerra popular."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "f663abc6-0c7a-491e-81cb-69369364161d"
+    },
+    {
+      "start_time": 629,
+      "end_time": 636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sólo el pueblo organizado y armado a través de una larga guerra revolucionaria destruirá sus enemigos."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "802a31ee-e2d1-476b-854d-05aa09011bcd"
+    },
+    {
+      "start_time": 637,
+      "end_time": 655,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El imperialismo yankee, los capitalistas y sus fuerzas armadas títeres, poniendo fin a esta sociedad injusta y logrará finalmente la construcción de una Argentina nueva, justa, libre y socialista, sin explotadores ni explotados."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "e3b638b6-771e-4e9b-a45c-87179d09eb31"
+    },
+    {
+      "start_time": 656,
+      "end_time": 660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Seguiremos el ejemplo del Che, argentinos a las armas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "cd91a5d1-88c4-4cb1-8454-7a7e33a05caf"
+    },
+    {
+      "start_time": 661,
+      "end_time": 675,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "hasta hacer de cada ciudadano un combatiente, de cada barrio, fábrica, universidad, una fortaleza, adelante con la guerra revolucionaria, a vencer o morir por la Argentina."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "02f3f902-4611-4829-ad8a-34753cc89448"
+    },
+    {
+      "start_time": 676,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comando Luis N. Blanco, Ejército Revolucionario del Pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ejercito Revolucionario del Pueblo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "ERP"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Swift"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "justicia popular"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "secuestro de empresarios"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Che Guevara"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dictadura militar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Lanusse"
+        }
+      ],
+      "uuid": "f0a768ee-cfd6-464f-b0b2-9a524373869b"
+    }
+  ],
   "event_id": "657d058c-ac87-4bb4-aed3-b9381c2eba04",
   "set": "Correcta",
   "source_id": "0cb7b29f-6c0a-4151-a7ba-85a49bc3c126"
